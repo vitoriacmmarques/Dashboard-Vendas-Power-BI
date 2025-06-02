@@ -38,5 +38,9 @@ O projeto consiste em um dashboard voltado para análise de pedidos, produtos e 
 - Exibição de imagens dos produtos a partir de URLs públicas.
 
 ---
+## Demonstração:
 
+A animação abaixo mostra o funcionamento do dashboard de vendas em tempo real. É possível visualizar as métricas de forma interativa e visualmente intuitiva.
+
+![Demonstração do dashboard](assets/Dashboard%20Vendas.gif)
 
