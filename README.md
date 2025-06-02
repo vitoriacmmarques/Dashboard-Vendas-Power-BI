@@ -2,6 +2,10 @@
 
 Este repositório apresenta um projeto de Dashboard de Vendas desenvolvido no Power BI, com o objetivo de analisar o desempenho comercial de diferentes produtos, oferecendo uma visualização clara, interativa e dinâmica das informações de vendas.
 
+<p>
+  <img src="./assets/Dashboard%20Vendas.gif" alt="Demonstração do Dashboard" width="800"/>
+</p>
+
 ---
 
 ## Descrição do Projeto
